@@ -1,0 +1,44 @@
+nav,
+h2,
+h3 {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Crimson Text', serif;
+    font-size: 1.50rem;
+}
+
+#title,
+#portfolio {
+    background-color: #F5EFE6;
+}
+
+#title img {
+    border-radius: 5%;
+}
+
+#title h1 {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 4rem;
+}
+
+#about-me span {
+    color: #4d8fd1;
+}
+
+#portfolio img {
+    border-radius: 2%;
+}
+
+#contact-me,
+#footer {
+    background-color: #E8DFCA;
+}
+
+#contact-me p {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 1rem;
+    margin-bottom: 0;
+}
